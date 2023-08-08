@@ -1,2 +1,2 @@
 # Figure_bed
-这是属于黄大堂的图床
+这是属于KaitangHuang的图床
